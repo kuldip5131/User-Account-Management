@@ -1,9 +1,9 @@
-01 xampp install in PC
-02 open to xampp
-03 start to Apache
-04 start to MySQL and Admin
-05 open to phpmyadmin
-06 click to SQL and past code and go creat to database
+01 xampp install in PC <br>
+02 open to xampp <br>
+03 start to Apache <br>
+04 start to MySQL and Admin <br>
+05 open to phpmyadmin <br>
+06 click to SQL and past code and go creat to database <br>
 
 CREATE DATABASE IF NOT EXISTS profile;
 
